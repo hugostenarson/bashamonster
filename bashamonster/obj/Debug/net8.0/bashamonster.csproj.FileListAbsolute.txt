@@ -1,0 +1,14 @@
+c:\Users\hugo.stenarson\Desktop\Prog 2\bashamonster\bashamonster\bin\Debug\net8.0\bashamonster.exe
+c:\Users\hugo.stenarson\Desktop\Prog 2\bashamonster\bashamonster\bin\Debug\net8.0\bashamonster.deps.json
+c:\Users\hugo.stenarson\Desktop\Prog 2\bashamonster\bashamonster\bin\Debug\net8.0\bashamonster.runtimeconfig.json
+c:\Users\hugo.stenarson\Desktop\Prog 2\bashamonster\bashamonster\bin\Debug\net8.0\bashamonster.dll
+c:\Users\hugo.stenarson\Desktop\Prog 2\bashamonster\bashamonster\bin\Debug\net8.0\bashamonster.pdb
+c:\Users\hugo.stenarson\Desktop\Prog 2\bashamonster\bashamonster\obj\Debug\net8.0\bashamonster.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hugo.stenarson\Desktop\Prog 2\bashamonster\bashamonster\obj\Debug\net8.0\bashamonster.AssemblyInfoInputs.cache
+c:\Users\hugo.stenarson\Desktop\Prog 2\bashamonster\bashamonster\obj\Debug\net8.0\bashamonster.AssemblyInfo.cs
+c:\Users\hugo.stenarson\Desktop\Prog 2\bashamonster\bashamonster\obj\Debug\net8.0\bashamonster.csproj.CoreCompileInputs.cache
+c:\Users\hugo.stenarson\Desktop\Prog 2\bashamonster\bashamonster\obj\Debug\net8.0\bashamonster.dll
+c:\Users\hugo.stenarson\Desktop\Prog 2\bashamonster\bashamonster\obj\Debug\net8.0\refint\bashamonster.dll
+c:\Users\hugo.stenarson\Desktop\Prog 2\bashamonster\bashamonster\obj\Debug\net8.0\bashamonster.pdb
+c:\Users\hugo.stenarson\Desktop\Prog 2\bashamonster\bashamonster\obj\Debug\net8.0\bashamonster.genruntimeconfig.cache
+c:\Users\hugo.stenarson\Desktop\Prog 2\bashamonster\bashamonster\obj\Debug\net8.0\ref\bashamonster.dll
