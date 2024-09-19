@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\hugo.stenarson\\Desktop\\Prog 2\\bashamonster\\bashamonster\\bashamonster.csproj": {}
+    "C:\\Users\\hugo.stenarson\\Desktop\\Prog 2\\bashamonster\\bashamonster\\bashamonster.csproj": {}
   },
   "projects": {
-    "c:\\Users\\hugo.stenarson\\Desktop\\Prog 2\\bashamonster\\bashamonster\\bashamonster.csproj": {
+    "C:\\Users\\hugo.stenarson\\Desktop\\Prog 2\\bashamonster\\bashamonster\\bashamonster.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\hugo.stenarson\\Desktop\\Prog 2\\bashamonster\\bashamonster\\bashamonster.csproj",
+        "projectUniqueName": "C:\\Users\\hugo.stenarson\\Desktop\\Prog 2\\bashamonster\\bashamonster\\bashamonster.csproj",
         "projectName": "bashamonster",
-        "projectPath": "c:\\Users\\hugo.stenarson\\Desktop\\Prog 2\\bashamonster\\bashamonster\\bashamonster.csproj",
+        "projectPath": "C:\\Users\\hugo.stenarson\\Desktop\\Prog 2\\bashamonster\\bashamonster\\bashamonster.csproj",
         "packagesPath": "C:\\Users\\hugo.stenarson\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\hugo.stenarson\\Desktop\\Prog 2\\bashamonster\\bashamonster\\obj\\",
+        "outputPath": "C:\\Users\\hugo.stenarson\\Desktop\\Prog 2\\bashamonster\\bashamonster\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
